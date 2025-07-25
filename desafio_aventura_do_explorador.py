@@ -1,7 +1,7 @@
 # Desafio: A Aventura do Explorador
 
 # Entrada
-quantidade_passos = int(input())
+quantidade_passos = int(input("Quantos passos deseja que nosso aventureiro dê?  "))
 
 # //TODO: Adicione uma condição para verificar se a quantidade de passos é positiva.
 if quantidade_passos<=0:
